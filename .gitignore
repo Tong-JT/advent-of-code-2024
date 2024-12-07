@@ -1,0 +1,9 @@
+.vs/
+.vscode/
+*.vcxproj*
+*.user
+*.suo
+*.ncb
+*.sdf
+x64/
+AdventOfCode2024/x64/
