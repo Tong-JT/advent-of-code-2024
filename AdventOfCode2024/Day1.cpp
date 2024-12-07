@@ -1,10 +1,11 @@
 #include <fstream>
 #include <iostream>
 #include <list>
-#include "headerAll.h" 
 #include <algorithm>
+#include "HeaderAll.h" 
 
 using namespace std;
+
 list<int> listA;
 list<int> listB;
 
@@ -15,7 +16,7 @@ void openFile() {
 	fstream inFile;
 	int a, b;
 
-	inFile.open("Day1-Part1-input.txt");
+	inFile.open("Day1-input.txt");
 	if (!inFile) {
 		cerr << "Unable to open file.";
 		exit(1);
