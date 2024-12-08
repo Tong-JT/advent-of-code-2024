@@ -1,6 +1,6 @@
 ## Advent of Code 2024
 This repository contains my solutions to the [Advent of Code 2024](https://adventofcode.com/) coding challenges. Each year, the event consists of 25 puzzles, one for each day in December leading up to Christmas.
-As per AoC guidelines, input files used for the puzzles have been omitted from this repository, but they can be accessed directly from the official [Advent of Code website](https://adventofcode.com/2024).
+As per AoC guidelines, input files used for the puzzles have been omitted from this repository, but they can be accessed directly from the official Advent of Code website upon login.
 
 ### Language
 For this year's challenges, I am using **C++** to solve the problems.
