@@ -1,5 +1,5 @@
-#ifndef HEADERALL_H
-#define HEADERALL_H
+#ifndef HEADERALL_HPP
+#define HEADERALL_HPP
 
 int Day1Part1();
 int Day1Part2();

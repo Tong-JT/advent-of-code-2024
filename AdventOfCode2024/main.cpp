@@ -1,5 +1,5 @@
 #include <iostream>
-#include "HeaderAll.h" 
+#include "HeaderAll.hpp" 
 
 int main() {
 	//Day1Part1();

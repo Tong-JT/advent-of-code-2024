@@ -3,7 +3,6 @@
 #include <string>
 #include <sstream>
 #include <regex>
-#include "HeaderAll.h" 
 
 using namespace std;
 

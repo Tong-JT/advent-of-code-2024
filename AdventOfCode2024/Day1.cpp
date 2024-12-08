@@ -2,7 +2,6 @@
 #include <iostream>
 #include <list>
 #include <algorithm>
-#include "HeaderAll.h" 
 
 using namespace std;
 

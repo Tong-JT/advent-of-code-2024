@@ -3,7 +3,6 @@
 #include <string>
 #include <sstream>
 #include <vector>
-#include "HeaderAll.h" 
 
 using namespace std;
 
