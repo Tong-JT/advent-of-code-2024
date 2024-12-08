@@ -7,3 +7,4 @@
 *.sdf
 x64/
 AdventOfCode2024/x64/
+*.txt

@@ -7,6 +7,9 @@
 
 using namespace std;
 
+
+// Part One
+
 bool recurseAscend(vector<int> list, int currentInt) {
     if (currentInt == list.size() - 1) {
         return true;
@@ -63,6 +66,9 @@ int Day2Part1() {
     cout << validateOrder();
     return 0;
 }
+
+
+// Part Two
 
 bool isSafeDampened(vector<int> list) {
     for (int i = 0; i < list.size(); ++i) {
