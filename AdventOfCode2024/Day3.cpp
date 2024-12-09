@@ -6,6 +6,11 @@
 
 using namespace std;
 
+
+// Link: adventofcode.com/2024/day/2
+
+// Part 1
+
 int matchString() {
     string line;
     ifstream file("Day3-input.txt");
@@ -40,6 +45,9 @@ int Day3Part1() {
     cout << matchString();
     return 0;
 }
+
+
+// Part 2
 
 int matchSwitchString() {
     string line;
@@ -88,10 +96,6 @@ int matchSwitchString() {
 
     return addedUp;
 }
-
-
-
-
 
 int Day3Part2() {
     cout << matchSwitchString();

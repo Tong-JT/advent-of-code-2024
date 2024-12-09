@@ -13,4 +13,7 @@ int Day3Part2();
 int Day4Part1();
 int Day4Part2();
 
+int Day5Part1();
+int Day5Part2();
+
 #endif

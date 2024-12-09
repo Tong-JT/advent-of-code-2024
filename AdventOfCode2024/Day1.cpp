@@ -5,11 +5,11 @@
 
 using namespace std;
 
+
+// Link: adventofcode.com/2024/day/1
+
 list<int> listA;
 list<int> listB;
-
-
-// Import file for both parts
 
 void openFile() {
 	fstream inFile;

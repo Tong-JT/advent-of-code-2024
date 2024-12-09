@@ -3,9 +3,13 @@
 #include <string>
 #include <sstream>
 #include <vector>
-#include <deque>
 
 using namespace std;
+
+
+// Link: adventofcode.com/2024/day/4
+
+// Part 1
 
 vector<vector<char>> xmasArray;
 vector<char> xmas = { 'X','M','A','S' };
@@ -104,6 +108,9 @@ int Day4Part1() {
     cout << numXmas;
     return 0;
 }
+
+
+// Part 2
 
 char returnSquare(int row, int col) {
     if (row >= 0 && row < xmasArray.size() && col >= 0 && col < xmasArray[0].size()) {
