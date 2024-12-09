@@ -10,5 +10,6 @@ For this year's challenges, I am using **C++** to solve the problems.
 - **Day 2**: Recursion and sequence validation.
 - **Day 3**: Regular expressions, string manipulation and iteration.
 - **Day 4**: Recursive pattern matching and working with 2D vectors.
+- **Day 5**: Maps and iterative search. Learned about custom sorting with lambdas (Part 2).
 
 
